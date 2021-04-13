@@ -1,0 +1,13 @@
+C:\Users\Tetu\source\repos\TP_1\TP_1\bin\Debug\TP_1.exe.config
+C:\Users\Tetu\source\repos\TP_1\TP_1\bin\Debug\TP_1.exe
+C:\Users\Tetu\source\repos\TP_1\TP_1\bin\Debug\TP_1.pdb
+C:\Users\Tetu\source\repos\TP_1\TP_1\obj\Debug\TP_1.csprojAssemblyReference.cache
+C:\Users\Tetu\source\repos\TP_1\TP_1\obj\Debug\TP_1.FormCalculadora.resources
+C:\Users\Tetu\source\repos\TP_1\TP_1\obj\Debug\TP_1.Properties.Resources.resources
+C:\Users\Tetu\source\repos\TP_1\TP_1\obj\Debug\TP_1.csproj.GenerateResource.cache
+C:\Users\Tetu\source\repos\TP_1\TP_1\obj\Debug\TP_1.csproj.CoreCompileInputs.cache
+C:\Users\Tetu\source\repos\TP_1\TP_1\obj\Debug\TP_1.exe
+C:\Users\Tetu\source\repos\TP_1\TP_1\obj\Debug\TP_1.pdb
+C:\Users\Tetu\source\repos\TP_1\TP_1\bin\Debug\Entidades.dll
+C:\Users\Tetu\source\repos\TP_1\TP_1\bin\Debug\Entidades.pdb
+C:\Users\Tetu\source\repos\TP_1\TP_1\obj\Debug\TP_1.csproj.CopyComplete
