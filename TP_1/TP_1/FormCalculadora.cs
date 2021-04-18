@@ -13,11 +13,18 @@ namespace TP_1
 {
     public partial class FormCalculadora : Form
     {
+        /// <summary>
+        /// Inicia el form
+        /// </summary>
         public FormCalculadora()
         {
             InitializeComponent();
         }
-
+        /// <summary>
+        /// Resuelve la operación al clickear en el boton.
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
         private void btnOperar_Click(object sender, EventArgs e)
         {
             if (cmbOperador.Text == "")
@@ -30,11 +37,21 @@ namespace TP_1
             
         }
 
+        /// <summary>
+        /// Cierra la aplicación al presionar el boton
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
         private void btnCerrar_Click(object sender, EventArgs e)
         {
             this.Close();
         }
 
+        /// <summary>
+        /// Limpia los operandos, el operador, el resultado y deshabilita los conversores.
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
         private void btnLimpiar_Click(object sender, EventArgs e)
         {
             Limpiar();
@@ -42,6 +59,9 @@ namespace TP_1
             btnConvertirABinario.Enabled = false;
         }
 
+        /// <summary>
+        /// Metodo para limpiar los campos de la calculadora
+        /// </summary>
         private void Limpiar()
         {
             txtNumero1.Text = String.Empty;
@@ -50,7 +70,13 @@ namespace TP_1
             lblResultado.Text = String.Empty;
             
         }
-        
+        /// <summary>
+        /// Resuelve un calculo apartir de los parametros ingresadros
+        /// </summary>
+        /// <param name="numero1">Primer operando</param>
+        /// <param name="numero2">Segundo operando</param>
+        /// <param name="operador">Operador</param>
+        /// <returns>Double con el resultado.</returns>
         private static double Operar(string numero1, string numero2, string operador)
         {
             double resultado;
@@ -61,24 +87,34 @@ namespace TP_1
             resultado = Calculadora.Operar(num1,num2,operador);
             return resultado;
         }
-
+        /// <summary>
+        /// Resuelve la conversion de Decimal a Binario, deshabilita el botón del mismo.
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
         private void btnConvertirABinario_Click(object sender, EventArgs e)
-        {          
+        {
+           Numero num1 = new Numero();
            string resul2;
-           resul2 =  Numero.DecimalBinario(lblResultado.Text);
+           resul2 =  num1.DecimalBinario(lblResultado.Text);
            lblResultado.Text = resul2;
            btnConvertirABinario.Enabled = false;
 
         }
+        /// <summary>
+        /// Resuelve la conversion de  Binario a Decimal, deshabilita el botón del mismo.
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
+
 
         private void btnBinarioADecimal_Click(object sender, EventArgs e)
         {
+            Numero num1 = new Numero();
             string resutaldo = lblResultado.Text;
-            resutaldo = Numero.BinarioDecimal(resutaldo);
+            resutaldo = num1.BinarioDecimal(resutaldo);
             lblResultado.Text = resutaldo;
             btnConvertirABinario.Enabled = true;
-
-
         }
     }
 }
