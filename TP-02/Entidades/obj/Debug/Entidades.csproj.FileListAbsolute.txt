@@ -17,3 +17,9 @@ C:\Users\Tetu\Desktop\TP-02\Entidades\obj\Debug\Entidades.csprojAssemblyReferenc
 C:\Users\Tetu\Desktop\TP-02\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
 C:\Users\Tetu\Desktop\TP-02\Entidades\obj\Debug\Entidades.dll
 C:\Users\Tetu\Desktop\TP-02\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Tetu\Documents\Facu TT\2DO CUATRI\Labo2\tp_Lab\TP-02\Entidades\bin\Debug\Entidades.dll
+C:\Users\Tetu\Documents\Facu TT\2DO CUATRI\Labo2\tp_Lab\TP-02\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Tetu\Documents\Facu TT\2DO CUATRI\Labo2\tp_Lab\TP-02\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Tetu\Documents\Facu TT\2DO CUATRI\Labo2\tp_Lab\TP-02\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Tetu\Documents\Facu TT\2DO CUATRI\Labo2\tp_Lab\TP-02\Entidades\obj\Debug\Entidades.dll
+C:\Users\Tetu\Documents\Facu TT\2DO CUATRI\Labo2\tp_Lab\TP-02\Entidades\obj\Debug\Entidades.pdb

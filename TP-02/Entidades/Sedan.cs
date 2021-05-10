@@ -11,7 +11,7 @@ namespace Entidades
     public class Sedan : Vehiculo
     {
         public enum ETipo { CuatroPuertas, CincoPuertas }
-        ETipo tipo;
+        private ETipo tipo;
 
         /// <summary>
         /// Por defecto, TIPO será CuatroPuertas
@@ -22,7 +22,7 @@ namespace Entidades
         public Sedan(EMarca marca, string chasis, ConsoleColor color)
             : base(chasis, marca, color)
         {
-            tipo = ETipo.CuatroPuertas;
+            this.tipo = ETipo.CuatroPuertas;
         }
 
         /// <summary>

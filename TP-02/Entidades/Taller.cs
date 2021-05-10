@@ -95,11 +95,9 @@ namespace Entidades
                 if (!(v == vehiculo) && taller.espacioDisponible > taller.vehiculos.Count)
                 {
                     taller.vehiculos.Add(vehiculo);                   
-                }
                     return taller;
+                }
             }
-
-            taller.vehiculos.Add(vehiculo);
             return taller;
         }
         /// <summary>
