@@ -1,0 +1,6 @@
+C:\Users\Tetu\source\repos\TP3\Library\bin\Release\Library.dll
+C:\Users\Tetu\source\repos\TP3\Library\bin\Release\Library.pdb
+C:\Users\Tetu\source\repos\TP3\Library\obj\Release\Library.csproj.AssemblyReference.cache
+C:\Users\Tetu\source\repos\TP3\Library\obj\Release\Library.csproj.CoreCompileInputs.cache
+C:\Users\Tetu\source\repos\TP3\Library\obj\Release\Library.dll
+C:\Users\Tetu\source\repos\TP3\Library\obj\Release\Library.pdb
