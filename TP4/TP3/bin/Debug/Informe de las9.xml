@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?><ArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"><string>Modelo: tes
+Tipo: Auto
+Cilirdrada 1000
+Cantidad Ruedas: 4
+Tipo de modelo: Base
+Motor: Nafta
+Color: Negro
+</string><string>Modelo: tes
+Tipo: Auto
+Cilirdrada 1000
+Cantidad Ruedas: 4
+Tipo de modelo: Base
+Motor: Nafta
+Color: Negro
+</string><string>Modelo: test2
+Tipo: Auto
+Cilirdrada 1000
+Cantidad Ruedas: 4
+Tipo de modelo: Base
+Motor: Diesel
+Color: Azul
+</string><string>Modelo: testttttt
+Tipo: Moto
+Cilirdrada 2000
+Cantidad Ruedas: 2
+Tipo de modelo: Base
+Motor: Electrico
+Color: Rojo
+</string><string>Modelo: avlaro
+Tipo: Auto
+Cilirdrada 1400
+Cantidad Ruedas: 4
+Tipo de modelo: Base
+Motor: Diesel
+Color: Negro
+</string><string>Modelo: pepito
+Tipo: Suv
+Cilirdrada 1600
+Cantidad Ruedas: 4
+Tipo de modelo: Base
+Motor: Diesel
+Color: Azul
+</string><string>Modelo: pepito
+Tipo: Moto
+Cilirdrada 2000
+Cantidad Ruedas: 2
+Tipo de modelo: Base
+Motor: Diesel
+Color: Blanco
+</string></ArrayOfString>

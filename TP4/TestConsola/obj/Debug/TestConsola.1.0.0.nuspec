@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>TestConsola</id>
+    <version>1.0.0</version>
+    <authors>TestConsola</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework=".NETCoreApp3.1">
+        <dependency id="Library" version="1.0.0" exclude="Build,Analyzers" />
+        <dependency id="TP3" version="1.0.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\Tetu\source\repos\TP3\TestConsola\bin\Debug\netcoreapp3.1\TestConsola.runtimeconfig.json" target="lib\netcoreapp3.1\TestConsola.runtimeconfig.json" />
+    <file src="C:\Users\Tetu\source\repos\TP3\TestConsola\bin\Debug\netcoreapp3.1\TestConsola.dll" target="lib\netcoreapp3.1\TestConsola.dll" />
+  </files>
+</package>
