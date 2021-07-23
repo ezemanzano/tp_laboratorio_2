@@ -4,6 +4,7 @@ using System.Data.SqlClient;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Windows.Forms;
 
 namespace Library
 {
@@ -99,12 +100,11 @@ namespace Library
             {
                 using (SqlConnection connection = new SqlConnection(connectionStr))
                 {
-                    connection.Open();
+                    connection.Open();  
                     SqlCommand command = new SqlCommand();
                     command.CommandType = System.Data.CommandType.Text;
                     command.Connection = connection;
                     command.CommandText = string.Format("SELECT * FROM tp4");
-
                     SqlDataReader dataReader = command.ExecuteReader();
 
                     while (dataReader.Read() != false)
@@ -152,9 +152,9 @@ namespace Library
                 }
                 return automoviles;
             }
-            catch (Exception e)
+            catch (Excepciones leerSql)
             {
-                throw e;
+                throw new Excepciones("Error al leer la base de datos", leerSql);
             }
 
         }
