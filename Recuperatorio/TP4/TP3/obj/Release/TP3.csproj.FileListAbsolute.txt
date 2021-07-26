@@ -1,0 +1,14 @@
+C:\Users\Tetu\source\repos\TP3\TP3\bin\Release\TP3.exe.config
+C:\Users\Tetu\source\repos\TP3\TP3\bin\Release\TP3.exe
+C:\Users\Tetu\source\repos\TP3\TP3\bin\Release\TP3.pdb
+C:\Users\Tetu\source\repos\TP3\TP3\bin\Release\Library.dll
+C:\Users\Tetu\source\repos\TP3\TP3\bin\Release\Library.pdb
+C:\Users\Tetu\source\repos\TP3\TP3\obj\Release\TP3.csproj.AssemblyReference.cache
+C:\Users\Tetu\source\repos\TP3\TP3\obj\Release\TP3.frmPrincipal.resources
+C:\Users\Tetu\source\repos\TP3\TP3\obj\Release\TP3.frmAgregarStock.resources
+C:\Users\Tetu\source\repos\TP3\TP3\obj\Release\TP3.Properties.Resources.resources
+C:\Users\Tetu\source\repos\TP3\TP3\obj\Release\TP3.csproj.GenerateResource.cache
+C:\Users\Tetu\source\repos\TP3\TP3\obj\Release\TP3.csproj.CoreCompileInputs.cache
+C:\Users\Tetu\source\repos\TP3\TP3\obj\Release\TP3.csproj.CopyComplete
+C:\Users\Tetu\source\repos\TP3\TP3\obj\Release\TP3.exe
+C:\Users\Tetu\source\repos\TP3\TP3\obj\Release\TP3.pdb

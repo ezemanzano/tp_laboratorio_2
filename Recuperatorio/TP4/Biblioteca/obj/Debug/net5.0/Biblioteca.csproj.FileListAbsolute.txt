@@ -1,0 +1,12 @@
+C:\Users\Tetu\source\repos\TP3\Biblioteca\bin\Debug\net5.0\Biblioteca.deps.json
+C:\Users\Tetu\source\repos\TP3\Biblioteca\bin\Debug\net5.0\Biblioteca.dll
+C:\Users\Tetu\source\repos\TP3\Biblioteca\bin\Debug\net5.0\ref\Biblioteca.dll
+C:\Users\Tetu\source\repos\TP3\Biblioteca\bin\Debug\net5.0\Biblioteca.pdb
+C:\Users\Tetu\source\repos\TP3\Biblioteca\obj\Debug\net5.0\Biblioteca.csproj.AssemblyReference.cache
+C:\Users\Tetu\source\repos\TP3\Biblioteca\obj\Debug\net5.0\Biblioteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tetu\source\repos\TP3\Biblioteca\obj\Debug\net5.0\Biblioteca.AssemblyInfoInputs.cache
+C:\Users\Tetu\source\repos\TP3\Biblioteca\obj\Debug\net5.0\Biblioteca.AssemblyInfo.cs
+C:\Users\Tetu\source\repos\TP3\Biblioteca\obj\Debug\net5.0\Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\Tetu\source\repos\TP3\Biblioteca\obj\Debug\net5.0\Biblioteca.dll
+C:\Users\Tetu\source\repos\TP3\Biblioteca\obj\Debug\net5.0\ref\Biblioteca.dll
+C:\Users\Tetu\source\repos\TP3\Biblioteca\obj\Debug\net5.0\Biblioteca.pdb
